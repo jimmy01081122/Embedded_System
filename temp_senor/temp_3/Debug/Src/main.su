@@ -1,0 +1,13 @@
+main.c:116:13:GPIO_Unused_To_Analog_For_Power	40	static
+main.c:675:13:MX_ADC1_Init	56	static
+main.c:234:13:UART_Disable_For_Power	32	static
+main.c:371:13:ADC_Disable_For_Power	8	static
+main.c:226:13:Request_Stop_If_Button_Pressed	8	static
+main.c:721:13:MX_SPI1_Init	8	static
+main.c:344:13:SPI_Disable_For_Power	32	static
+main.c:513:13:Enter_Final_Stop	8	static
+main.c:411:17:ADC_Read_Channel_Average.constprop	56	static
+main.c:201:6:HAL_GPIO_EXTI_Callback	0	static
+main.c:624:6:SystemClock_Config	160	static
+main.c:529:5:main	104	static
+main.c:807:6:_Error_Handler	0	static

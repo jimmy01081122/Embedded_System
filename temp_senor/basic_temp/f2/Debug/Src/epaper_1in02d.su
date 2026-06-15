@@ -1,0 +1,11 @@
+epaper_1in02d.c:17:13:EPD_SendCommand	16	static
+epaper_1in02d.c:25:13:EPD_SendData	16	static
+epaper_1in02d.c:58:13:EPD_WaitUntilIdle	8	static
+epaper_1in02d.c:173:13:EPD_DrawPixel	0	static
+epaper_1in02d.c:322:13:EPD_DrawString5x7	40	static
+epaper_1in02d.c:137:13:EPD_DisplayFrame.constprop	8	static
+epaper_1in02d.c:76:6:EPD_Init	8	static
+epaper_1in02d.c:159:6:EPD_ClearWhite	8	static
+epaper_1in02d.c:332:6:EPD_ShowString	8	static
+epaper_1in02d.c:345:6:EPD_ShowTestPattern	16	static
+epaper_1in02d.c:374:6:EPD_Sleep	8	static
