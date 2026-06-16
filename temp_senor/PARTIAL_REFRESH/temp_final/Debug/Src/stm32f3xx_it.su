@@ -1,0 +1,2 @@
+stm32f3xx_it.c:26:6:SysTick_Handler	8	static
+stm32f3xx_it.c:47:6:EXTI15_10_IRQHandler	0	static
