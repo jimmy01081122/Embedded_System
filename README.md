@@ -1,4 +1,4 @@
-# Embedded_System_Intro
+# Embedded_System
 - 課號	ESOE 5156
 - 授課教師	陳昭宏 教授
 - 學年  2026 Spring
